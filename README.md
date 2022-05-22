@@ -18,5 +18,5 @@ Navigate to the deployed application page https://gnartistic.github.io/jscodequi
 
 ## License
 
-![License](/LICENSE.txt)
+See License.txt file for more info.
 
