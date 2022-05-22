@@ -28,7 +28,7 @@ var titleTag = document.querySelector("#title")
 //question and answer object with arrays
 var questionObj = { //question object that holds all the parts of questions
     questions: [ //questions can just be added to by adding on a string to end of array
-        "Commonly used data types DO not include:",
+        "Commonly used data types DO NOT include:",
         "The condition in an if / else statement is enclosed with _______.",
         "Arrays in JavaScript can be used to store ________.",
         "String values must be enclosed within _______ when being assigned to variables. ",
